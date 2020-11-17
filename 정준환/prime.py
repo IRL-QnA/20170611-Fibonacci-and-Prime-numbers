@@ -1,5 +1,4 @@
-for i in range(1, 101):
-    if i == 1: continue
+for i in range(2, 101):
     isPrime = True
 
     for j in range(2, i):
